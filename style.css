@@ -18,3 +18,13 @@
     cursor: pointer;
     border: 5px solid blue;
 }
+.mybutton2{
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+    color: yellow;
+    background-color: pink;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 5px solid blue;
+}
